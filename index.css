@@ -62,7 +62,7 @@ body{
     height: 68px;
     position: absolute;
     background-repeat: no-repeat;
-    left: 14.3%;
+    left: 24.3%;
     top: 9.2%;
     animation: wheel_rotation 0.5s linear infinite;
 }
